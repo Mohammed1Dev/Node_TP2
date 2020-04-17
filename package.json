@@ -1,0 +1,17 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "Node Application connecting with Mongodb ",
+  "main": "index.js",
+  "scripts": {
+    "test": "As you wish"
+  },
+  "author": "Mohammed Amine Bettaoui",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "mongodb": "^3.5.5",
+    "mongoose": "^5.9.7"
+  }
+}
